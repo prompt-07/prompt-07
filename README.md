@@ -32,12 +32,12 @@
 
 </p>
 
-### Bucketlist for 2022:
+#### Bucketlist for 2022:
 
 ---
 <p align="left">
 <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="react-native" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="expressjs" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="expressjs" width="40" height="40"/> </a><a href="https://nodejs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="linux" width="40" height="40"/>
 </p>

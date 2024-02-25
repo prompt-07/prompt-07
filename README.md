@@ -34,7 +34,7 @@ Let's code and learn together! 💻✨
 
 </p>
 
-#### Bucketlist for 2023:
+#### Bucketlist for 2024:
 
 ---
 <p align="left">

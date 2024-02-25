@@ -2,13 +2,15 @@
 
 ![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
 
-## I'm a software developer, freelancer and a student forever!
+## 👋 Hello there! I'm a passionate software developer, a freelancer, and a perpetual student on a coding journey!
 
+- 🔭 Currently immersed in the world of Web Development.
+- ⏳ Exploring the realms of .NET Core and sharpening my skills in the world of JavaScript.
+- 🎄 Eager to make meaningful contributions to open source projects.
+- 🌱 Always in pursuit of knowledge, learning and evolving every day.
 
-- 🔭 I’m currently working on **Web Development**
-- ⏳  Exploring **.net-core** and **javascript** 
-- 🎄 Looking to contribute more on open source projects
-- 🌱 **Learning everything**
+Let's code and learn together! 💻✨
+
 
 
 ### Languages and Tools:
